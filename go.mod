@@ -1,6 +1,6 @@
 module github.com/ghiyastfarisi/go-pqc-bench
 
-go 1.23.5
+go 1.24
 
 require github.com/cloudflare/circl v1.6.0
 
